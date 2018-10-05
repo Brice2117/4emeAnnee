@@ -4,7 +4,7 @@
 	<title>Nom Du Site</title>
 	<link rel="stylesheet" href="css/styleNav.css"/>
 	<link rel="stylesheet" href="css/styleHeader.css"/>
-	<link rel="stylesheet" href="css/styleSearche.css"/>
+	<link rel="stylesheet" href="css/styleSearch.css"/>
 </head>
 <body>
 
