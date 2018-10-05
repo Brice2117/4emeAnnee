@@ -3,7 +3,7 @@
 <head>
 	<title>e-commerce.com</title>
 	<link rel="stylesheet" href="css/styleNav.css"/>
-	<link rel="stylesheet" href="css/styleHeaderr.css"/>
+	<link rel="stylesheet" href="css/styleHeader.css"/>
 	<link rel="stylesheet" href="css/cart_page.css"/>
 	<style>
 		#cart_page tbody tr:nth-child(even) {background-color: rgb(82,183,242);}

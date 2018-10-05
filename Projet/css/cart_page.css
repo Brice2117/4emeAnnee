@@ -9,11 +9,11 @@
 	text-align: center;
 }
 
-body {
+body #cart_page {
 	text-align: center;
 }
 
-table, input {
+#cart_page table, input {
 	color:white;
 	/*Couleur du texte*/
 }
@@ -69,6 +69,7 @@ table, input {
 	margin-right: 25px;
 	margin-left: 25px
 	height 50px;
+	color: black;
 }
 
 #cart_page .price {
@@ -95,3 +96,4 @@ table, input {
 	margin-left: 50px; 
 	margin-right:50px;
 }
+

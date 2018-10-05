@@ -4,8 +4,7 @@
         <!-- En-tête de la page -->
         <meta charset="iso-8859-1" />
         <title>First HTML Page</title>
-        <link rel="stylesheet" type="text/css" href="CreateCompte.css" />
-        <link rel="stylesheet" href="css/main.css" />
+        <link rel="stylesheet" type="text/css" href="css/createAccount.css" />
     </head>
 <body class="contacts-index-index">
 
