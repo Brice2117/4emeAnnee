@@ -16,7 +16,7 @@
 		</div>
 
 		<div class="accountGestion">
-		<form class="inputLogs" method = "GET" action="product.php">
+		<form class="inputLogs" method = "GET" action="cart_page.php">
 			<div>
 				<input type="text" name="Id" placeholder="Id">
 				<input type="password" name="password" placeholder="Password">
@@ -25,7 +25,7 @@
 			<input class="button" type="submit" name="login" value="log in">
 
 		</form>
-		<form action="product.php">
+		<form action="createAccount.php">
 			<input class="button" type="submit" name="register" value="register">
 		</form>
 		</div>
