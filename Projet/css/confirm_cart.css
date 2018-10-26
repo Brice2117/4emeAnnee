@@ -1,0 +1,114 @@
+#confirm_cart{
+	position: absolute;
+	margin-left: 300px; 
+	margin-top: 110px;
+	z-index: 1;	
+	padding-right: 50px;
+	padding-bottom: 30px;
+	display:block;
+	text-align: center;
+	width:75%;
+	vertical-align: center;
+}
+
+#confirm_cart a:link{
+	text-decoration:none;
+}
+
+#confirm_cart .recap_commande{
+	position: relative;
+}
+
+#confirm_cart h1 {
+	text-align: center;
+}
+
+#confirm_cart .recap_commande table thead {
+	background-color: rgba(67,163,220);
+}
+#confirm_cart .recap_commande table thead #nbArticles {
+	border-radius: 10px 0px 0px 0px;
+}
+#confirm_cart .recap_commande table thead #total {
+	border-radius: 0px 10px 0px 0px;
+}
+#confirm_cart .recap_commande table tbody{
+	background-color: rgba(82,183,242);
+}
+#confirm_cart .recap_commande table {
+	position: relative;
+	color:white;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: separate;
+	border-spacing: 0px 0px;
+	border-radius: 10px;
+}
+
+#confirm_cart .recap_commande table td {
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top:5px;
+	padding-bottom: 5px;
+}
+
+#confirm_cart .recap_commande table tfoot td {
+	text-align: right; 
+	background-color: rgba(67,163,220); 
+	border-radius: 0px 0px 10px 10px;
+}
+#confirm_cart .recap_commande table tfoot td div{
+	color:white;
+}
+
+#confirm_cart .adress table thead td{
+	background-color: rgba(67, 163, 220);
+	border-radius: 10px 10px 0px 0px;
+}
+
+#confirm_cart .adress {
+	margin-top: 30px;
+	margin-bottom: 15px;
+	color: white;
+	position: relative;
+}
+
+#confirm_cart .adress table tbody{
+	background-color: rgba(82,183,242);
+}
+
+#confirm_cart .adress table {
+	position: relative;
+	text-align: center;
+	width:100%;
+	border-collapse: separate;
+	border-spacing: 0px 0px;
+	border-radius: 10px;
+}
+
+#confirm_cart .adress table td{
+	padding-top: 5px;
+	padding-bottom: 10px;
+	padding-right: 5px;
+	padding-left: 15px;
+	min-width: 50px;
+}
+
+#confirm_cart .adress table tbody td [name='add1']{
+	padding-bottom: 2px;
+}
+#confirm_cart .adress table tbody td [name='add2']{
+	padding-top: 2px;
+}
+
+#confirm_cart .adress table tfoot td{
+	text-align: right;
+	background-color: rgba(67,163,220);
+	border-radius: 0px 0px 10px 10px;
+}
+#confirm_cart .adress table tfoot td div{
+	color:white; margin-right: 25px;
+}
+
+
